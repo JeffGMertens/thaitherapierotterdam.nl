@@ -4,9 +4,8 @@
   "description": "Thai Therapy Rotterdam - Professional Thai massage services in Rotterdam",
   "main": "index.html",
   "scripts": {
-    "dev": "vite --port 3000",
-    "build": "vite build",
-    "preview": "vite preview --port 8000"
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 8000"
   },
   "keywords": [
     "thai-massage",
