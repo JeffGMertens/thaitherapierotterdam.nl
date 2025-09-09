@@ -1,0 +1,20 @@
+{
+  "name": "thai-therapie-rotterdam",
+  "version": "1.0.0",
+  "description": "Thai Therapy Rotterdam - Professional Thai massage services in Rotterdam",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "thai-massage",
+    "rotterdam",
+    "therapy",
+    "wellness",
+    "massage"
+  ],
+  "author": "Thai Therapie Rotterdam",
+  "license": "ISC",
+  "type": "module"
+}
